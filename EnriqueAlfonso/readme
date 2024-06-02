@@ -1,0 +1,11 @@
+I coded my program  in Pycharm(python 3.10)
+The libraries you need to run the code are :
+pandas
+sklearn
+imbalanced-learn
+joblib
+numpy
+spicy.stats
+
+You first run preprocessing.py, then the two models files.
+model.py is for KNN model and Model01.py is for Random Forest model.
